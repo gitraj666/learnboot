@@ -1,0 +1,62 @@
+/*  Home */
+
+.home{
+    height: 600px;
+    width: 100%;
+    background-image:  url(../images/home.jpg);
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    color:black;
+}
+.home h1{
+    font-size :40px;
+}
+.home p{
+    width: 500px;
+    color:darkgray;
+    font-size: 30px;
+}
+.home .btn{
+    background : #90caf9;
+}
+.home a{
+    color:#fff; 
+    padding:5px;
+}
+
+/*  Services */
+
+.services{
+    color: darkgray;
+}
+.services h3{
+    font-size:15px;
+}
+.services p{
+    font-size : 25px;
+}
+
+.about{
+    padding:50px;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.container i{
+    height:80px;
+    width:80px;
+    font-size:50px;
+    padding:25px 20px;
+    border-radius:50%;
+    color:aqua;
+}
+.container h2{
+    font-size:30px;
+}
+.container p{
+    font-size:20px;
+}
+.container .btn{
+    background-color: dimgray;
+}
